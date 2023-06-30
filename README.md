@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I am currently working on a cool project
+- 🌱 I'm currently learning how to use GitHub and what it is
+- 📚 I'm a freshman in college
 <!--
 **aidenvierra/aidenvierra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
