@@ -1,8 +1,9 @@
 ### Hi there 👋
 
 - 🔭 I am currently working on a cool project
-- 🌱 I'm currently learning how to use GitHub and what it is
-- 📚 I'm a freshman in college
+- 🌱 I'm currently learning about web development and cybersecurity
+- 📚 I'm a freshman at Rice University
+- - 📫 How to reach me: ahv5@rice.edu
 <!--
 **aidenvierra/aidenvierra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,7 +14,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
