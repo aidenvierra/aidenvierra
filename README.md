@@ -4,7 +4,7 @@ My name is Aiden Vierra
 - 🤔 I am studying computer science and business
 - 🔭 I am currently working on a cool project
 - 🌱 I am currently learning about web development and cybersecurity
-- - 📫 How to reach me: ahv5@rice.edu
+- - 📫 How to reach me: ahv5@rice.edu | aidenv05@hotmail.com
 <!--
 **aidenvierra/aidenvierra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
