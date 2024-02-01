@@ -1,5 +1,5 @@
 # 💫 About Me:
-📚 I am a freshman at Rice University<br>🤔 I am studying computer science <br>🔭 I am currently working on python and SQL<br>🌱 I am currently learning about ML/AI
+📚 I am a freshman at Rice University<br>🤔 I am studying computer science <br>🔭 I am currently working on python and SQL projects <br>🌱 I am currently learning about ML/AI
 
 
 ## 🌐 Socials:
